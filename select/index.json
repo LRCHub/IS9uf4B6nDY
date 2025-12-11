@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "遠く、遠く、遠く。",
+  "base_artist": "中瀬ミル",
+  "createdAt": "2025-12-11T08:44:44.043844Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "遠く、遠く、遠く。",
+      "artist": "中瀬ミル",
+      "has_synced": false,
+      "path": "select/pl_01_遠く、遠く、遠く。_中瀬ミル.txt"
+    }
+  ]
+}
